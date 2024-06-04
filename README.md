@@ -21,12 +21,10 @@
 
 ## Author's Information
 
-Sebastian Kula
+Sebastian Kula: 
 
 skula@uoguelph.ca
 
-Andre Rabanillo
-
-1234572
+Andre Rabanillo: 1234572
 
 arabanil@uoguelph.ca
