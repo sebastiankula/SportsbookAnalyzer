@@ -1,6 +1,6 @@
 # Historical Sportsbook Analyzer
 
-This project utilizes the [The Odds API](https://the-odds-api.com/) to access the betting lines for each major sportsbook worldwide. This project will focus on analyzing the major North American sportsbooks, such as DraftKings, BetMGM, Fanduel, Bovada, Fliff and Hard Rock Bet. With the found information, users will be able to find various lines to all sports games found in the sportsbooks. 
+This project utilizes the [The Odds API](https://the-odds-api.com/) to access the betting lines for each major sportsbook worldwide. focusing on analyzing the major North American sportsbooks, such as DraftKings, BetMGM, Fanduel, Bovada, Fliff and Hard Rock Bet. With the found information, users will be able to find various lines to all sports games found in the sportsbooks. 
 
   - This gives users the ability to compare lines
   - Perfect for arbitrage betting
