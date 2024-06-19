@@ -1,4 +1,4 @@
-# Historcial Sportsbook Analyzer
+# Historical Sportsbook Analyzer
 
 
 
