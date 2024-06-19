@@ -1,5 +1,18 @@
 # Historical Sportsbook Analyzer
 
+This project utilizes the [The Odds API](https://the-odds-api.com/) to access the betting lines for each major sportsbook worldwide. This project will focus on analyzing the major North American sportsbooks, such as DraftKings, BetMGM, Fanduel, Bovada, Fliff and Hard Rock Bet. With the found information, users will be able to find various lines to all sports games found in the sportsbooks. 
+
+  - This gives users the ability to compare lines
+  - Perfect for arbitrage betting
+  - Gives the ability for betters to find the lines with most value to secure more profit
+
+You can check our project out at [outclasstheodds.com](outclasstheodds.com)
+
+### What is arbitrage betting? 
+
+Arbitrage betting is a gambling strategy that involves placing bets on every possible outcome of a sporting event. 
+   -  This involves taking advantage of differing opinions between all the major sportsbook lines.   
+For example, a bettor can place bets on both a win or loss of the same team, at odds that ensure they make an overall profit regardless of the game outcome.
 
 
 ## Features
