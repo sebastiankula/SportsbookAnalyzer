@@ -1,9 +1,9 @@
 # Outclass The Odds
 
-This project utilizes the [The Odds API](https://the-odds-api.com/) to access the betting lines for each major sportsbook worldwide, focusing on analyzing the major North American sportsbooks, such as DraftKings, BetMGM, Fanduel, Bovada, Fliff and Hard Rock Bet. With the information found, users will be able to compare various lines to all sports games found in the sportsbooks. 
+This project utilizes [The Odds API](https://the-odds-api.com/) to access betting lines from major sportsbooks worldwide, with a primary focus on analyzing leading North American sportsbooks, including DraftKings, BetMGM, FanDuel, Bovada, Fliff, and Hard Rock Bet. By comparing these lines, users can easily evaluate odds across different platforms for various sports games.
 
   - This gives users the ability to compare lines
-  - Gives the ability for bettors to find the lines with the most value to secure more profit
+  - Makes it easier for bettors to find the lines with the most value to secure more profit
   - Perfect for arbitrage betting
 
 You can check our project out at [outclasstheodds.com](http://outclasstheodds.com/)
